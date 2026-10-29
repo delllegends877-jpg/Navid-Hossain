@@ -1,0 +1,6 @@
+# robots.txt for Fuchka House
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://fuchkahouse.com/sitemap.xml

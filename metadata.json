@@ -1,0 +1,6 @@
+{
+  "name": "Fuchka House - Authentic Bangladeshi Fuchka & Chotpoti",
+  "description": "Dhaka's premier spot for crispy handcrafted fuchka, savory chotpoti, rich doi fuchka, and fiery naga spice. Order directly via WhatsApp with fresh home delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
